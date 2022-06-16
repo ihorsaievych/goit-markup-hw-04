@@ -195,6 +195,8 @@ img {
 
 .header-contact-icon {
   fill: currentColor;
+  width: 16px;
+  height: 16px;
 }
 
 /* .header-contacts-item a[href^="mailto"]::before  {
