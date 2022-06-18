@@ -345,7 +345,7 @@ img {
 
 .co-worker-comment {
   padding-top: var(--typical-distance);
-  padding-bottom: 16px;
+  padding-bottom: var(--typical-distance);
 }
 
 .co-worker-item-title {
@@ -393,7 +393,6 @@ img {
   display: flex;
   justify-content: center;
   background-color: var(--main-backgroundcolor);
-  margin-bottom: 30px;
 }
 
 .co-worker-soc-item {
@@ -470,7 +469,6 @@ img {
   border: 1px solid #afb1b8;
   border-radius: 4px;
   color: #afb1b8;
-  padding: 6px;
 }
 
 .partners-icon {
